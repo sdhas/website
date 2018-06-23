@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Traffic Ramasamy",
+    "language": "Tamil",
+    "image": "images/movies/Traffic Ramasamy.jpg",
+    "theater": "sk",
+    "showtime": "10:30 AM & 7:00 PM",
+    "screen": ""
+  },
+  {
+    "title": "KAALA",
+    "language": "Tamil",
+    "image": "images/movies/kaala_sk.jpg",
+    "theater": "sk",
+    "showtime": "02:30 PM & 10:00 PM",
+    "screen": ""
+  },
+  {
+    "title": "Kargil",
+    "language": "Tamil",
+    "image": "images/movies/Kargil.jpg",
+    "theater": "gk",
+    "showtime": "2:30 PM & 7:00 PM & 10:00 PM",
+    "screen": "Rukmani"
+  },
+  {
+    "title": "KAALA",
+    "language": "Tamil",
+    "image": "images/movies/kaala_gk.jpg",
+    "theater": "gk",
+    "showtime": "11:30 AM & 2:30 PM & 7:20 PM & 10:00 PM",
+    "screen": "Radha"
+  },
+  {
+    "title": "Tik Tik Tik",
+    "language": "Tamil",
+    "image": "images/movies/Tik Tik Tik.jpg",
+    "theater": "gk",
+    "showtime": "11:30 AM & 2:30 PM & 7:20 PM & 10:00 PM",
+    "screen": "GopiKrishna"
+  },
+  {
+    "title": "The Incredibles 2 (Tamil)",
+    "language": "Tamil",
+    "image": "images/movies/The Incredibles 2.jpg",
+    "theater": "gk",
+    "showtime": "05:00 PM",
+    "screen": "GopiKrishna"
+  },
+  {
+    "title": "Enna Thavam Seitheno",
+    "language": "Tamil",
+    "image": "images/movies/enna-thavam-seitheno-movie-clip.jpg",
+    "theater": "gk",
+    "showtime": "11:30 AM",
+    "screen": "Rukmani"
+  }
+]
