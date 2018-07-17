@@ -170,7 +170,7 @@ $(document)
 													+ movie.image
 													+ "\" alt=\""
 													+ movie.title
-													+ "\" width=\"1200\" height=\"700\"><div class=\"carousel-caption\"><h3><strong>"
+													+  "\" width=\"1000px\" height=\"450px\"><div class=\"carousel-caption\"><h3><strong>"
 													+ movie.title
 													+ "</strong></h3><h4>"
 													+ showtime

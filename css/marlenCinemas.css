@@ -35,29 +35,38 @@ h3, h4 {
 .carousel-inner img {
 	/* -webkit-filter: grayscale(90%);
 	filter: grayscale(90%); */ /* make all photos black and white */
-	width: 100%; /* Set width to 100% */
 	margin: auto;
 }
 
 .carousel-caption {
 	background-color: #ffdb4d;
+	padding-top: 0px;
+	padding-bottom: 10px;
+	bottom: 0px;
 }
 
 .carousel-caption h3 {
 	color: #000 !important;
-	font-size: 30px;
+	font-size: 20px;
 }
 
 .carousel-caption h4 {
 	color: #fff !important;
-	font-size: 20px !important;
+	font-size: 15px !important;
 	letter-spacing: 2px !important;
+}
+
+.carousel-indicators {
+bottom:-14px;
 }
 
 @media ( max-width : 600px) {
 	.carousel-caption {
 		display: none;
 		/* Hide the carousel text when the screen is less than 600 pixels wide */
+	}
+	.logo {
+		width: 200px;
 	}
 }
 
@@ -214,4 +223,12 @@ textarea {
 	padding-left: 5%;
 	padding-right: 5%;
 	padding-top: 1%;
+}
+
+.logo {
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    float: left!important;
+    margin-right: -15px;
 }
